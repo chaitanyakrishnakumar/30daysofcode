@@ -1,4 +1,4 @@
-# Day 1 - Working with Variables in Python to Manage Data
+# Day 1 - Getting Started with Basic Operations and Troubleshooting
 ## Concepts Learned
 - Printing to the Console in Python
 - String Manipulation and Code Intelligence
