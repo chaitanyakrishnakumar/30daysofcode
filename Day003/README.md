@@ -1,5 +1,5 @@
 # Day 3 - Control Flow and Logical Operators
-## Concepts Practised
+## Concepts Learned
 - Control Flow with if / else and Conditional Operators
 - Modulo Operator
 - Nested if statements and elif statements
