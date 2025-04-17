@@ -6,4 +6,4 @@
 - Mathematical Operations in Python
 - Number Manipulation and F Strings in Python
 ## Tip Calculator
-![day02](../gifs/Day002.gif)
+![Day 002 Code Demo](../gifs/Day002.gif)
