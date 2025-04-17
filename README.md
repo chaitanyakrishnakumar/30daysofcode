@@ -14,3 +14,5 @@ My projects, developed through the Udemy course: [100 Days of Code: The Complete
 - [Day 6:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day006) Python Functions & Karel
 - [Day 7:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day007) Hangman
 - [Day 8:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day008) Function Parameters & Caesar Cipher
+- [Day 9:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day009) Dictionaries, Nesting and the Secret Auction
+- [Day 10:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day010) Functions with Outputs
