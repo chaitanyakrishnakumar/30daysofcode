@@ -9,32 +9,40 @@ numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
 
 print("Welcome to the PyPassword Generator!")
+
 nr_letters = int(input("How many letters would you like in your password?\n"))
 nr_numbers = int(input(f"How many numbers would you like?\n"))
 nr_symbols = int(input(f"How many symbols would you like?\n"))
 
 # Easy Level: elements in sequence
 password_list = []
-for letter in range(nr_letters):
-    smtg = random.choice(letters)
-    password_list.append(smtg)
 
-for symbol in range(nr_symbols):
-    smtg = random.choice(symbols)
-    password_list.append(smtg)
+for _ in range(nr_letters):
+    password_list.append(random.choice(letters))
 
-for number in range(nr_numbers):
-    smtg = random.choice(numbers)
-    password_list.append(smtg)
+for _ in range(nr_symbols):
+    password_list.append(random.choice(symbols))
 
-# easy_password = ""
+for _ in range(nr_numbers):
+    password_list.append(random.choice(numbers))
+
+# password = ""
 # for item in password_list:
 #     easy_password += item
-# print(f"Your easy password is: {easy_password}")
+# print(f"Your easy password is: {password}")
 
-# Hard Level: shuffling elements 
-hard_password = ""
+# Hard Level: shuffling elements
+password = ""
 random.shuffle(password_list)
 for item in password_list:
-    hard_password += item
-print(f"Ta-da! Your new password: {hard_password}")
+    password += item
+password = "".join(password_list)
+print(f"Ta-da! Your new password: {password}")
+
+length = len(password_list)
+if length <= 6:
+    print("Weak password. Aim for 9+ chars.")
+elif length <= 9:
+    print("Good password. More chars/complexity advised.")
+else:
+    print("Strong.")
