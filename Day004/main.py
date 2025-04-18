@@ -36,12 +36,15 @@ other = '''
 ---.__(___)
 '''
 game_pics = [rock, paper, scissors]
+
 player_choice = int(input("🗣️wanna play 🪨📄✂️? Type 0 for Rock, 1 for Paper or 2 for Scissors: "))
 computer_choice = random.randint(0, 2)
+
 if 0 <= player_choice <= 2:
     print(game_pics[player_choice])
     print(f"computer chose: ")
     print(game_pics[computer_choice])
+
     if player_choice == computer_choice:
         print("it's a draw")
     elif player_choice == 0 and computer_choice == 2:
