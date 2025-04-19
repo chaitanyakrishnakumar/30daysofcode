@@ -5,5 +5,4 @@
 ## Caesar Cipher
 
 ![Day 008 Code Demo](../gifs/Day008ii.gif)
-<br>
-![Day 008 Code Demo](../gifs/Day008i.gif)
+
