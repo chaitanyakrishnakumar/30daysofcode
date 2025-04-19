@@ -3,7 +3,7 @@
 - Functions with Inputs
 - Positional vs. Keyword Arguments
 ## Caesar Cipher
-<div style="display: flex; flex-direction: column;">
-  <img src="../gifs/Day008i.gif" alt="Day 008 Code Demo">
-  <img src="../gifs/Day008ii.gif" alt="Day 008 Code Demo">
-</div>
+
+![Day 008 Code Demo](../gifs/Day008i.gif)
+<br>
+![Day 008 Code Demo](../gifs/Day008ii.gif)
