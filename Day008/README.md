@@ -3,4 +3,5 @@
 - Functions with Inputs
 - Positional vs. Keyword Arguments
 ## Caesar Cipher
-![Day 008 Code Demo](../gifs/Day008.gif)
+![Day 008 Code Demo](../gifs/Day008i.gif)
+![Day 008 Code Demo](../gifs/Day008ii.gif)
