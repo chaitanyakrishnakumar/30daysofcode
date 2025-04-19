@@ -5,7 +5,6 @@ def auction():
     bid = int(input("What's your bid in coins?: "))
     bids[name] = bid
 
-
 print("welcome to the Auction for Rama's Heirloom Ring")
 
 auction()
