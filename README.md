@@ -3,7 +3,7 @@
 
 ![100-days-of-code](gifs/100daysofcode.gif)
 
-Showcasing my projects, developed through the Udemy course: [The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
+Showcasing my projects, developed as i progressed through the Udemy course: [The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
  
 ## 🔰 Beginner 
 - [Day 1:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day001) Getting Started with Basic Operations and Troubleshooting
