@@ -3,8 +3,8 @@
 
 ![100-days-of-code](gifs/100daysofcode.gif)
 
-Showcasing my projects, developed as I progressed through : [Udemy Course](https://www.udemy.com/course/100-days-of-code/)
- 
+Showcasing my projects, developed as I progressed through the [Udemy Course](https://www.udemy.com/course/100-days-of-code/)
+
 ## 🔰 Beginner 
 - [Day 1:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day001) Getting Started with Basic Operations and Troubleshooting
 - [Day 2:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day002) Understanding Data Types and How to Manipulate Strings
