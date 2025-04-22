@@ -4,7 +4,7 @@
 - Multiple return values
 - Docstrings
 - Combining Dictionaries and Functions
-- Print vs. Return
+- Print vs Return
 - While Loops, Flags and Recursion
 ## Calculator Project
 ![Day 010 Code Demo](../gifs/Day010.gif)
