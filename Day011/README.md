@@ -2,4 +2,4 @@
 ## Concepts Learned
 - Refactoring and calling procedures
 ## Blackjack
-![Day 001 Code Demo](../gifs/Day011.gif)
+![Day 011 Code Demo](../gifs/Day011.gif)
