@@ -16,3 +16,7 @@ Showcasing the projects I built as I progressed through this amazing [Udemy Cour
 - [Day 8:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day008) Function Parameters & Caesar Cipher
 - [Day 9:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day009) Dictionaries, Nesting and the Secret Auction
 - [Day 10:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day010) Functions with Outputs
+- [Day 11:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day011) The Blackjack Capstone Project
+- [Day 12:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day012) Scope & Number Guessing Game
+- [Day 13:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day013) Debugging: How to Find and Fix Errors in your Code
+- [Day 14:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day014) Higher Lower Game Project
