@@ -23,6 +23,7 @@ Showcasing the projects I built as I progressed through this amazing [Udemy Cour
 
 ## 🔬 Intermediate
 - [Day 15:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day015) Local Development Environment Setup & the Coffee Machine
+- [Day 16:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day016) Object Oriented Programming (OOP)
 ## 🛠️ Intermediate+
 ## 🧠 Advanced
 ## 🏆 Professional Portfolio Projects
