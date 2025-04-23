@@ -22,6 +22,7 @@ Showcasing the projects I built as I progressed through this amazing [Udemy Cour
 - [Day 14:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day014) Higher Lower Game Project
 
 ## 🔬 Intermediate
+- [Day 15:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day015) Local Development Environment Setup & the Coffee Machine
 ## 🛠️ Intermediate+
 ## 🧠 Advanced
 ## 🏆 Professional Portfolio Projects
