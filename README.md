@@ -20,3 +20,6 @@ Showcasing the projects I built as I progressed through this amazing [Udemy Cour
 - [Day 12:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day012) Scope & Number Guessing Game
 - [Day 13:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day013) Debugging: How to Find and Fix Errors in your Code
 - [Day 14:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day014) Higher Lower Game Project
+
+## 🔬 Intermediate
+
