@@ -6,3 +6,6 @@
 - Squashing bugs with a print() Statement
 - Using a Debugger
 ## Exercises
+- [Exercise 1](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day013/Exercise%201%20-%20Debugging%20Odd%20or%20Even): Debugging Odd or Even
+- [Exercise 2](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day013/Exercise%202%20-%20Debugging%20Leap%20Year): Debugging Leap Year
+- [Exercise 3](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day013/Exercise%203%20-%20Debugging%20FizzBuzz): Debugging FizzBuzz
