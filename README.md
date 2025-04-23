@@ -22,4 +22,6 @@ Showcasing the projects I built as I progressed through this amazing [Udemy Cour
 - [Day 14:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day014) Higher Lower Game Project
 
 ## 🔬 Intermediate
-
+## 🛠️ Intermediate+
+## 🧠 Advanced
+## 🏆 Professional Portfolio Projects
