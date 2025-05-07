@@ -1,6 +1,3 @@
-<h1 align="center">100 Days of Code: The Complete Python Pro Bootcamp
-</h1>
-
 ![100-days-of-code](gifs/100daysofcode.gif)
 
 Showcasing the projects I built as I progressed through this amazing [Udemy Course](https://www.udemy.com/course/100-days-of-code/)
