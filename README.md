@@ -62,3 +62,8 @@ Showcasing the projects I built as I progressed through this amazing [Udemy Cour
 - Authentication
 - Web Design
 - Deployment with GitHub Pages, Heroku and GUnicorn
+
+<h4 align="center">Hooray, our painting is ready !<img src="https://media2.giphy.com/media/TFNbcscr9JUUigDzrZ/giphy.gif?cid=ecf05e4706b8ssybfzwnhu3hwlqnljx0thbi23qezkue1y2i&rid=giphy.gif&ct=s" width = "50"></h4>
+
+<h2>Things we learnt 🕮️</h2>
+
