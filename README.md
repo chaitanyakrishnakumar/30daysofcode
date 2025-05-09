@@ -22,6 +22,7 @@ Showcasing the projects I built as I progressed through this amazing [Udemy Cour
 - [Day 015:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day015) Local Development Environment Setup & the Coffee Machine
 - [Day 016:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day016) Object Oriented Programming (OOP)
 - [Day 017:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day017) The Quiz Project & The Benefits of OOP
+- [Day 018:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day018) Turtle & the Graphical User Interface (GUI)
 ## 🛠️ Intermediate+
 ## 🧠 Advanced
 ## 🏆 Professional Portfolio Projects
