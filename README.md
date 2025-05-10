@@ -24,9 +24,9 @@ Showcasing the projects I built as I progressed through this amazing [Udemy Cour
 - [Day 17:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day017) The Quiz Project & The Benefits of OOP
 - [Day 18:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day018) Turtle & the Graphical User Interface (GUI)
 - [Day 19:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day019) Instances, State and Higher Order Functions
-- [Day 20:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day020) Build the Snake Game Part 1: Animation & Coordinates
-- [Day 21:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day021) Build the Snake Game Part 2: Inheritance & List Slicing
-- [Day 22:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day022) Build Pong: The Famous Arcade Game
+- [Day 20:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day020) Building the Snake Game Part 1: Animation & Coordinates
+- [Day 21:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day021) Building the Snake Game Part 2: Inheritance & List Slicing
+- [Day 22:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day022) Building Pong: The Famous Arcade Game
 - [Day 23:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day023) The Turtle Crossing Capstone Project
 - [Day 24:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day024) Files, Directories and Paths
 - [Day 25:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day025) Working with CSV Data and the Pandas Library
