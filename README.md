@@ -25,6 +25,18 @@ Showcasing the projects I built as I progressed through this amazing [Udemy Cour
 - [Day 18:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day018) Turtle & the Graphical User Interface (GUI)
 - [Day 19:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day019) Instances, State and Higher Order Functions
 - [Day 20:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day020) Build the Snake Game Part 1: Animation & Coordinates
+- [Day 21:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day021) Build the Snake Game Part 2: Inheritance & List Slicing
+- [Day 22:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day022) Build Pong: The Famous Arcade Game
+- [Day 23:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day023) The Turtle Crossing Capstone Project
+- [Day 24:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day024) Files, Directories and Paths
+- [Day 25:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day025) Working with CSV Data and the Pandas Library
+- [Day 26:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day026) List Comprehension and the Nato Alphabet
+- [Day 27:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day027) Tkinter, *args, **kwargs and Creating GUI Programs
+- [Day 28:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day028) Tkinter, Dynamic Typing and the Pomodoro GUI Application
+- [Day 29:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day029) Building a Password Manager GUI App with Tkinter
+- [Day 30:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day030) Errors, Exceptions and JSON Data: Improving the Password Manager
+- [Day 31:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day031) Flash Card App Capstone Project
+
 ## 🛠️ Intermediate+
 ## 🧠 Advanced
 ## 🏆 Professional Portfolio Projects
