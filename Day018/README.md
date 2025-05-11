@@ -4,4 +4,4 @@
 - Importing Modules, Installing Packages, and Working with Aliases
 - Python Tuples and How to Generate Random RGB Colours
 ## The Hirst Painting Project
-![Day 018 Code Demo](../gifs/Day018.gif)
+![Day 18 Code Demo](../gifs/Day018.gif)
