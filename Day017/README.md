@@ -4,4 +4,4 @@
 - Working with Attributes, Class Constructors and the __init__() Function
 - Adding Methods to a Class
 ## Quiz Project
-![Day 017 Code Demo](../gifs/Day017.gif)
+![Day 17 Code Demo](../gifs/Day017.gif)
