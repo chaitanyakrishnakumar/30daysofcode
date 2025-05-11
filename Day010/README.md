@@ -7,4 +7,4 @@
 - Print vs Return
 - While Loops, Flags and Recursion
 ## Calculator Project
-![Day 010 Code Demo](../gifs/Day010.gif)
+![Day 10 Code Demo](../gifs/Day010.gif)
