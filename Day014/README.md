@@ -4,4 +4,4 @@
 - Using Procedures
 - Using Conditional Statements
 ## Higher Lower Game
-![Day 014 Code Demo](../gifs/Day014.gif)
+![Day 14 Code Demo](../gifs/Day014.gif)
