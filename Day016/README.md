@@ -5,4 +5,4 @@
 - How to Add Python Packages and use PyPi
 - Modifying Object Attributes and Calling Methods
 ## OOP Coffee Machine
-![Day 001 Code Demo](../gifs/Day016.gif)
+![Day 16 Code Demo](../gifs/Day016.gif)
