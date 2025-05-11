@@ -3,4 +3,4 @@
 - The Python Dictionary
 - Nesting Lists and Dictionaries
 ## The Secret Auction Program
-![Day 009 Code Demo](../gifs/Day009.gif)
+![Day 9 Code Demo](../gifs/Day009.gif)
