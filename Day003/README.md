@@ -6,4 +6,4 @@
 - Multiple If Statements in Succession
 - Logical Operators
 ## Treasure Island
-![Day 003 Code Demo](../gifs/Day003.gif)
+![Day 3 Code Demo](../gifs/Day003.gif)
