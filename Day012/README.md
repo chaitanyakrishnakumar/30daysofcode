@@ -4,4 +4,4 @@
 - How to Modify a Global Variable
 - Python Constants and Global Scope
 ## The Number Guessing Game
-![Day 012 Code Demo](../gifs/Day012.gif)
+![Day 12 Code Demo](../gifs/Day012.gif)
