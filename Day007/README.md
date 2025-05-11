@@ -4,4 +4,4 @@
 - Improving the User Experience
 - Importing stuff from other files
 ## Hangman
-![Day 007 Code Demo](../gifs/Day007.gif)
+![Day 7 Code Demo](../gifs/Day007.gif)
