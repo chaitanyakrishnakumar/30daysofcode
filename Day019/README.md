@@ -4,4 +4,4 @@
 - Object State and Instances
 - The Turtle Coordinate System
 ## Turtle Race
-![Day 019 Code Demo](../gifs/Day019.gif)
+![Day 19 Code Demo](../gifs/Day019.gif)
