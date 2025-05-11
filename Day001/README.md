@@ -7,4 +7,4 @@
 - Python Variables
 - Variable Naming
 ## Band Name Generator
-![Day 001 Code Demo](../gifs/Day001.gif)
+![Day 1 Code Demo](../gifs/Day001.gif)
