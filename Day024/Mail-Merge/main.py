@@ -10,6 +10,6 @@ for name in names:
     name = name.strip()
     message = letter.replace(PLACEHOLDER, f"{name},")
 
-    file_name = f"letter_for_{name}.docx"
+    file_name = f"letter_for_{name}.txt"
     with open(f"./Output/ReadyToSend/{file_name}", mode="w") as output:
         output.write(message)
