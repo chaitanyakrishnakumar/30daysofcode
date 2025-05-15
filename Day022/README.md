@@ -8,4 +8,5 @@
 - How to Detect when the Ball goes Out of Bounds
 - Score Keeping and Changing the Ball Speed
 ## Pong
+### Built a 2-player Pong game using Turtle graphics, with paddle movement and ball bouncing.
 ![Day 22 Code Demo](../gifs/Day022.gif)
