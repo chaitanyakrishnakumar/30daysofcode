@@ -5,4 +5,5 @@
 - Create a Snake Class & Move to OOP
 - How to Control the Snake with a Keypress
 ## Snake Game Part 1
+### Started building the classic Snake game using Turtle graphics — handles movement and key controls.
 ![Day 20 Code Demo](../gifs/Day020.gif)
