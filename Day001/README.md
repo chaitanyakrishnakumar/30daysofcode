@@ -7,5 +7,5 @@
 - Python Variables
 - Variable Naming
 ## Band Name Generator
-A fun program that asks for the user's city and pet's name, then combines them to suggest a band name. <br>
+A fun program that asks for the user's city and pet's name, then combines them to suggest a band name.
 ![Day 1 Code Demo](../gifs/Day001.gif)
