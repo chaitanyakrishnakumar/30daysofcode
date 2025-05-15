@@ -6,4 +6,5 @@
 - Multiple If Statements in Succession
 - Logical Operators
 ## Treasure Island
+### A simple text-based adventure game where choices lead to winning or game over.
 ![Day 3 Code Demo](../gifs/Day003.gif)
