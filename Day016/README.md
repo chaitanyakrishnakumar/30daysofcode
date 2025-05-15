@@ -5,4 +5,5 @@
 - How to Add Python Packages and use PyPi
 - Modifying Object Attributes and Calling Methods
 ## OOP Coffee Machine
+### Refactored the coffee machine to use classes and objects for better structure and reusability.
 ![Day 16 Code Demo](../gifs/Day016.gif)
