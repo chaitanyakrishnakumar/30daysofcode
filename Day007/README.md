@@ -4,4 +4,5 @@
 - Improving the User Experience
 - Importing stuff from other files
 ## Hangman
+### A word-guessing game that draws parts of a hangman figure for each wrong guess.
 ![Day 7 Code Demo](../gifs/Day007.gif)
