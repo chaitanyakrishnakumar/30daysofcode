@@ -1,6 +1,6 @@
 ![100-days-of-code](gifs/100daysofcode.gif)
+<h4 align="center">Showcasing the projects I built as I progressed through this amazing [Udemy Course](https://www.udemy.com/course/100-days-of-code/)<img src="https://media2.giphy.com/media/TFNbcscr9JUUigDzrZ/giphy.gif?cid=ecf05e4706b8ssybfzwnhu3hwlqnljx0thbi23qezkue1y2i&rid=giphy.gif&ct=s" width = "50"></h4>
 
-Showcasing the projects I built as I progressed through this amazing [Udemy Course](https://www.udemy.com/course/100-days-of-code/)
 
 ## 🌱 Beginner 
 - [Day 1:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day001) Getting Started with Basic Operations and Troubleshooting
@@ -77,6 +77,3 @@ Showcasing the projects I built as I progressed through this amazing [Udemy Cour
 - Authentication
 - Web Design
 - Deployment with GitHub Pages, Heroku and GUnicorn
-
-<h4 align="center">Hooray, our painting is ready !<img src="https://media2.giphy.com/media/TFNbcscr9JUUigDzrZ/giphy.gif?cid=ecf05e4706b8ssybfzwnhu3hwlqnljx0thbi23qezkue1y2i&rid=giphy.gif&ct=s" width = "50"></h4>
-
