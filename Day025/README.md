@@ -5,5 +5,5 @@
 - Working with Rows & Columns
 - Data Analysis with Pandas
 ## Guess the States Game
-### Analyzed weather data using pandas and built a geography quiz game for Indian states with Python and Turtle, inspired by Angela Yu’s U.S. States game.
+### Learned to read and work with CSV files using pandas, and built an India States quiz game with Turtle, based on the classic U.S. states geography game.
 ![Day 25 Code Demo](../gifs/Day025.gif)
