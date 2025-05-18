@@ -4,5 +4,5 @@
 - DataFrames & Series
 - Working with Rows & Columns
 - Data Analysis with Pandas
-## U.S. States Game
+## Guess the States Game
 ![Day 25 Code Demo](../gifs/Day025.gif)
