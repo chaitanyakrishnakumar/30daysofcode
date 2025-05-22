@@ -4,4 +4,4 @@
 - How to use Dictionary Comprehension
 - How to Iterate over a Pandas DataFrame
 ## Nato Alphabet Project
-![Day 26 Code Demo](../gifs/Day26.gif)
+![Day 26 Code Demo](../gifs/Day026.gif)
