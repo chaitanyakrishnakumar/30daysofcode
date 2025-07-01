@@ -1,5 +1,5 @@
 ![100-days-of-code](gifs/100daysofcode.gif)
-#🐍 Python Portfolio
+# 🐍 Python Portfolio
 Showcasing the projects I built as I progressed through this amazing [Udemy Course](https://www.udemy.com/course/100-days-of-code/)
 
 
