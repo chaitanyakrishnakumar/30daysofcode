@@ -1,6 +1,6 @@
-
+![30-days-of-code](gifs/30daysofcode.png)
 # 🐍 Python Portfolio
-Showcasing the projects I built as I progressed from day1 to day30
+
 
 
 ## 🌱 Beginner 
