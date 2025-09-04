@@ -1,4 +1,4 @@
-![30-days-of-code](gifs/30daysofcode.png)
+![30-days-of-code](gifs/30DaysofCode.png)
 # 🐍 Python Portfolio
 
 
