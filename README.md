@@ -1,6 +1,6 @@
-![100-days-of-code](gifs/100daysofcode.gif)
+
 # 🐍 Python Portfolio
-Showcasing the projects I built as I progressed through this amazing [Udemy Course](https://www.udemy.com/course/100-days-of-code/)
+Showcasing the projects I built as I progressed from day1 to day30
 
 
 ## 🌱 Beginner 
@@ -36,45 +36,30 @@ Showcasing the projects I built as I progressed through this amazing [Udemy Cour
 - [Day 28:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day028) Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - [Day 29:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day029) Building a Password Manager GUI App with Tkinter
 - [Day 30:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day030) Errors, Exceptions and JSON Data: Improving the Password Manager
-- [Day 31:](https://github.com/chaitanyakrishnakumar/100daysofcode/tree/main/Day031) Flash Card App Capstone Project
 
-## 🛠️ Intermediate+
-## 🧠 Advanced
-## 🏆 Professional Portfolio Projects
+
+
 ## ⚙️ Tools and Technologies Covered
 - Python 3
-- PyCharm, Jupyter Notebook, Google Colab
+- PyCharm
+- Jupyter Notebook
+-  Google Colab
 - Python Scripting and Automation
 - Python Game Development
 - Web Scraping
-- Beautiful Soup
-- Selenium Web Driver
 - Request
-- WTForms
 - Data Science
 - Pandas
 - NumPy
 - Matplotlib
 - Plotly
-- Scikit learn
-- Seaborn
 - Turtle
 - Python GUI Desktop App Development
 - Tkinter
-- Front-End Web Development
-- HTML 5
-- CSS 3
-- Bootstrap 4
-- Bash Command Line
 - Git, GitHub and Version Control
-- Backend Web Development
-- Flask
-- REST
 - APIs
 - Databases
 - SQL
 - SQLite
 - PostgreSQL
-- Authentication
-- Web Design
-- Deployment with GitHub Pages, Heroku and GUnicorn
+
